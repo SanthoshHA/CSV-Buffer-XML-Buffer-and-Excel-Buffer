@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <Item No="1896-S">
+      <Description>Mobile</Description>
+      <Inventory>14</Inventory>
+  </Item>
+  <Item No="1900-S">
+      <Description>Laptop</Description>
+      <Inventory>0</Inventory>
+  </Item>
+  <Item No="1906-S">
+      <Description>Headset</Description>
+      <Inventory>5</Inventory>
+  </Item>
+</Items>
